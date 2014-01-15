@@ -1,0 +1,4 @@
+sinaapp
+=======
+
+self blog
